@@ -1,0 +1,22 @@
+{
+  "name": "spacegame",
+  "version": "1.0.0",
+  "description": "A space strategy game(maybe vr)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbauman1010/SpaceStrategyGame.git"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbauman1010/SpaceStrategyGame/issues"
+  },
+  "homepage": "https://github.com/danielbauman1010/SpaceStrategyGame#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
